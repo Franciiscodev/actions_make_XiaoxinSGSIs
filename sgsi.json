@@ -1,10 +1,7 @@
 {
-  "rom_url": "https://hugeota.d.miui.com/20.9.4/miui_MI8SE_20.9.4_8b18fec4c4_10.0.zip",
-  "rom_name": "miui_MI8SE_20.9.4_8b18fec4c4_10.0.zip.zip",
+  "rom_url": "https://3tsjp6s56coie5taksnjkrkj2l8ktmqf6admeb024lk373n10umvviie.qc.x.bsgslb.cn:8711/xdispatch78e6b374249f62f7/bigota.d.miui.com/V12.5.5.0.QFMCNXM/miui_LAURUS_V12.5.5.0.QFMCNXM_eb006da5b1_10.0.zip",
+  "rom_name": "miui_LAURUS_V12.5.5.0.QFMCNXM_eb006da5b1_10.0.zip",
   "pack_sgsi": "XiaoxinSGSIs_Pinkdoge.7z",
-  "rom_url": "https://udomain.dl.sourceforge.net/project/xiaomi-eu-multilang-miui-roms/xiaomi.eu/MIUI-WEEKLY-RELEASES/20.10.22/xiaomi.eu_multi_HMNote7_20.10.22_v12-10.zip",
-  "rom_name": "xiaomi.eu_multi_HMNote7_20.10.22_v12-10.zip",
-  "pack_sgsi": "HMNote7_20.10.22_Q-eu_XiaoxinSGSIs_Pinkdoge.zip",
   "make_miui": true,
   "make_flyme": false,
   "make_coloros": false,
